@@ -14,7 +14,7 @@ Invoked function of `site-type` routing. Called when ee site is invoked. Perform
 
 ### Subcommand
 
-| Argument                                  | Description                                           |
+| List                                      | Description                                           |
 |:------------------------------------------|:------------------------------------------------------|
 | [ee site clean](/docs/site/site-clean)    | Clears Object and Page cache for site                 |
 | [ee site html](/docs/site/site-create-html) | Runs site installation with provided site type.    |

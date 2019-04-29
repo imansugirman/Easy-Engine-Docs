@@ -1,10 +1,11 @@
 //
 // Typography
 //
+@import url('https://fonts.googleapis.com/css?family=Nunito:300,300i,400,400i,600');
 
-$body-font-family: 'Source Sans Pro', sans-serif !default;
+$body-font-family: 'Nunito', sans-serif !default;
 $mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace !default;
-$root-font-size: 16px !default;         // Base font-size for rems
+$root-font-size:  16px !default;         // Base font-size for rems
 $body-line-height: 1.4 !default;
 $body-heading-line-height: 1.15 !default !default;
 
