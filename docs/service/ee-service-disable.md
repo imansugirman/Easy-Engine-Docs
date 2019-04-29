@@ -9,7 +9,7 @@ nav_order: 3
 
 ```
 # Disable global service
-$ ee service disable nginx-proxy
+ee service disable nginx-proxy
 
 ```
 

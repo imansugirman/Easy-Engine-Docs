@@ -5,7 +5,7 @@ parent: Cron Job
 nav_order: 3
 ---
 
-## Easy Engine Create Crone
+## Easy Engine Delete Crone
 
 Deletes a cron job
 

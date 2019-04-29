@@ -9,7 +9,7 @@ nav_order: 2
 
 ```
 # Enable global service
-$ ee service enable nginx-proxy
+ee service enable nginx-proxy
 
 ```
 

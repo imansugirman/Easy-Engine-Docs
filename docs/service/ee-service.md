@@ -19,7 +19,7 @@ ee service restart nginx-proxy
 
 ```
 # Disable global service
-$ ee service disable nginx-proxy
+ee service disable nginx-proxy
 ```
 
 ### Global Parameter
